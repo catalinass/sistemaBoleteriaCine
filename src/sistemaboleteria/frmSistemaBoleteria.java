@@ -150,7 +150,7 @@ public class frmSistemaBoleteria extends javax.swing.JFrame {
         jLabel10.setFont(new java.awt.Font("Roboto", 0, 11)); // NOI18N
         jLabel10.setText("Fecha:");
 
-        lbnFecha.setText("   /     /     ");
+        lbnFecha.setText("   -      -     ");
 
         jLabel12.setText("Hora:");
 
